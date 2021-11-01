@@ -1,7 +1,7 @@
 # HTML form
 
 
-<img src="./Assets/concluido2.jpeg">
+<img src="./Assets/concluido2.png">
 
 
 > Simple design of an HTML-only form.
