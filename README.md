@@ -10,7 +10,15 @@
 
 The project is complete!
 
-## 🤝 Contributors
+##
+
+### Project on GitHub Pages:
+    
+ 📄Link: https://gomesb07.github.io/project2-html/
+
+##
+
+### 🤝 Contributors
 
 We thank the following people who contributed to this project:
 
