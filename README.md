@@ -6,15 +6,15 @@
 
 > Simple design of an HTML-only form.
 
-### Adjustments and improvements
+### 🛠Adjustments and improvements
 
 The project is complete!
 
 ##
 
-### Project on GitHub Pages:
+### 📄Project on GitHub Pages:
     
- 📄Link: https://gomesb07.github.io/project2-html/
+ Link: https://gomesb07.github.io/project2-html/
 
 ##
 
